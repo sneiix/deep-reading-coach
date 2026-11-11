@@ -1,7 +1,7 @@
 interface:
   display_name: "深度阅读教练"
   short_description: "英文深度精读：结构主旨、长难句拆解、核心语法点提取、词汇与阅读题实战"
-  default_prompt: "用「深度阅读教练」精读我接下来粘贴的英文文章，默认走完整精读流程。"
+  default_prompt: "开始练习：给我一篇 B2 短文和 4 道阅读题，带我精读。"
 
 policy:
   allow_implicit_invocation: true
